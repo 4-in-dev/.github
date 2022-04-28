@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-
-
-
+<details>
 <summary>커밋메시지 컨벤션</summary>
 <div markdown="1">
 
