@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+## [커밋메시지 컨벤션](https://github.com/4-in-dev/.github/wiki/%EC%BB%A4%EB%B0%8B%EB%A9%94%EC%8B%9C%EC%A7%80-%EC%BB%A8%EB%B2%A4%EC%85%98)
+
 <!--
 
 **Here are some ideas to get you started:**
