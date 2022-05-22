@@ -79,8 +79,8 @@
 - **Back-end**
 
 * [Back-end Repository](https://github.com/4-in-dev/RoutineWave-Backend)
-* [김훈희](https://github.com/nmdkims): 게시판 등록/조회/수정/삭제
-* [남효정](https://github.com/heyhyo11): 로그인/회원가입
+* [김훈희](https://github.com/nmdkims): 스케쥴 등록/조회/수정/삭제/ 캘린더 조회
+* [남효정](https://github.com/heyhyo11): 로그인/회원가입/ 능력치 계산 기능
 
 <br>
 
