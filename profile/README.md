@@ -1,5 +1,5 @@
 ## RoutineWave Project
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7fcdfa2d-c8b5-40d1-b90f-0aba9e3db77c/deploy-status)](https://app.netlify.com/sites/routinewave/deploys)
 <br>
 
 - **기획 배경 및 의도**
