@@ -2,6 +2,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7fcdfa2d-c8b5-40d1-b90f-0aba9e3db77c/deploy-status)](https://app.netlify.com/sites/routinewave/deploys)
 <br>
 
+https://develop--routinewave.netlify.app/
+
 - **기획 배경 및 의도**
 
 1. 사용자의 일일 및 월간 일정을 손쉽게 세울 수 있는 서비스입니다.
